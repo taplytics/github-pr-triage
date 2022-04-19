@@ -9,7 +9,7 @@ itsdangerous==0.24
 jsmin==2.2.1
 pylibmc==1.5.1
 python-memcached==1.57
-requests==2.10.0
+requests==2.20.0
 wsgiref==0.1.2
 Flask-Cache==0.13.1
 Flask-Heroku-Cacheify==1.5
